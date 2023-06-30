@@ -28,7 +28,7 @@
     GET /pagamento
 ```
 
-### Listar pagamentos por jogador
+#### Listar pagamentos por jogador
 ```http request
     GET /pagamento/{{codJogador}}
 ```
